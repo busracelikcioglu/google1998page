@@ -1,2 +1,2 @@
 # google1998page
-!(google1998page/google1998.png)
+<img src="https://github.com/busracelikcioglu/google1998page/blob/main/google1998.PNG">
