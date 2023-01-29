@@ -1,2 +1,2 @@
 # google1998page
-![alt text](/google1998.png)
+!(google1998page/google1998.png)
