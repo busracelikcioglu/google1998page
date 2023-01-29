@@ -1,0 +1,36 @@
+.search {
+    background-color: #EEEEEE;
+    width: 10%;
+}
+
+.spsearch {
+    width: 10%;
+    background: #7EE5DA;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.links {
+    width: 5%;
+    background: #70CCC2;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+}
+.contact{
+    width: 11%;
+    background: #62B3AA;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+}
+
+.center {
+    margin: auto;
+    text-align:center; 
+    width:1330px;
+  
+}
+.id {
+    font-size: small;
+}
